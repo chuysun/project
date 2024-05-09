@@ -17,6 +17,7 @@ Obtain follow-up mortality data to analyze over a 20-year period from the [Natio
     - Datalinkage
       - Linked Mortality
         - ```NHANES_1999_2000_MORT_2019_PUBLIC.dat```
+
 ```stata
  //data
  global mort_1999_2000 https://ftp.cdc.gov/pub/HEALTH_STATISTICS/NCHS/datalinkage/linked_mortality/NHANES_1999_2000_MORT_2019_PUBLIC.dat
