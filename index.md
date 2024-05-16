@@ -50,3 +50,6 @@ Import the specific health questionnaire data and prepare it for analysis in Wee
 import sasxport5 "https://wwwn.cdc.gov/Nchs/Nhanes/1999-2000/HUQ.XPT", clear
 ```
 ## Inferences 
+
+## Week 7 Survival Analysis
+click [here](dyndoc.html) to view nonparametric and semiparametric risk estimates from Stata
